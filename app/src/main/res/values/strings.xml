@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Saving Files</string>
     <string name="edit_message">Say something...</string>
     <string name="button_send">Send</string>
+    <string name="save_data">Save Data</string>
+    <string name="key_data">key_name</string>
+    <string name="load_data">Load Data</string>
+    <string name="placeholder_text">Tap on load data ...</string>
 </resources>
